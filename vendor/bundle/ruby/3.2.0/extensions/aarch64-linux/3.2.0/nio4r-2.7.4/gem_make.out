@@ -1,5 +1,5 @@
 current directory: /home/vscode/environment/hello_app/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.4/ext/nio4r
-/home/vscode/.rbenv/versions/3.2.8/bin/ruby extconf.rb
+/home/vscode/.rbenv/versions/3.1.4/bin/ruby extconf.rb
 checking for unistd.h... yes
 checking for rb_io_descriptor()... yes
 checking for linux/aio_abi.h... yes

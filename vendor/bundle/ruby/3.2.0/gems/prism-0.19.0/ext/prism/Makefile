@@ -13,12 +13,12 @@ NULLCMD = :
 #### Start of system configuration section. ####
 
 srcdir = .
-topdir = /home/vscode/.rbenv/versions/3.2.8/include/ruby-3.2.0
+topdir = /home/vscode/.rbenv/versions/3.1.4/include/ruby-3.2.0
 hdrdir = $(topdir)
-arch_hdrdir = /home/vscode/.rbenv/versions/3.2.8/include/ruby-3.2.0/aarch64-linux
+arch_hdrdir = /home/vscode/.rbenv/versions/3.1.4/include/ruby-3.2.0/aarch64-linux
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
-prefix = $(DESTDIR)/home/vscode/.rbenv/versions/3.2.8
+prefix = $(DESTDIR)/home/vscode/.rbenv/versions/3.1.4
 rubysitearchprefix = $(rubylibprefix)/$(sitearch)
 rubyarchprefix = $(rubylibprefix)/$(arch)
 rubylibprefix = $(libdir)/$(RUBY_BASE_NAME)
